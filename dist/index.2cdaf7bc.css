@@ -1,3 +1,29 @@
+img {
+  width: 75px;
+}
 
+li {
+  list-style: none;
+}
+
+.Africa {
+  color: #00f;
+}
+
+.Americas {
+  color: green;
+}
+
+.Asia {
+  color: red;
+}
+
+.Europe {
+  color: #ff0;
+}
+
+.Oceania {
+  color: purple;
+}
 
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
